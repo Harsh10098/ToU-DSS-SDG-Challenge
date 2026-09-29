@@ -1,0 +1,3 @@
+[submodule "Diabetes EDA"]
+	path = Diabetes EDA
+	url = https://github.com/Harsh10098/diabetes_eda.git
